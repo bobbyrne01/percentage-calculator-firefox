@@ -1,0 +1,9 @@
+{
+  "name": "calculator",
+  "fullName": "Calculator",
+  "id": "jid1-7HlF2ySdzIw9gw",
+  "description": "Calculator for Firefox",
+  "author": "Robert Byrne",
+  "license": "GNU GPL v3",
+  "version": "0.0.1"
+}
