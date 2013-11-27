@@ -1,8 +1,8 @@
 window.onload=function(){
 	
-	var expression1 = document.getElementById("f1");
-	var expression2 = document.getElementById("f2");
-	var expression3 = document.getElementById("f3");
+	var expression1 = document.getElementById("f1"),
+		expression2 = document.getElementById("f2"),
+		expression3 = document.getElementById("f3");
 	
 	expression1.addEventListener("click", function() { 
 		document.getElementById("f1answer").value = document.getElementById("f1a").value / 100 * document.getElementById("f1b").value;

@@ -1,9 +1,9 @@
 {
-  "name": "calculator",
-  "fullName": "Calculator",
+  "name": "percentage-calculator",
+  "fullName": "Percentage Calculator",
   "id": "jid1-7HlF2ySdzIw9gw",
-  "description": "Calculator for Firefox",
+  "description": "Percentage calculator for Firefox",
   "author": "Robert Byrne",
   "license": "GNU GPL v3",
-  "version": "0.0.1"
+  "version": "0.0.2"
 }

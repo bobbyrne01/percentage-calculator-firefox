@@ -1,4 +1,4 @@
-calculator-addon
+percentage-calculator-addon
 ================
 
-Calculator addon for Firefox
+Percentage Calculator addon for Firefox
